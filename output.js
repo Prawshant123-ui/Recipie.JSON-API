@@ -1,0 +1,720 @@
+ [
+  {
+    id: 1,
+    slug: "dal-bhat",
+    name: "Dal Bhat",
+    cuisine: "Nepali",
+    ingredients: [
+      "Rice",
+      "Lentils",
+      "Salt",
+      "Ghee"
+    ],
+    instructions: "Cook rice separately. Boil lentils with salt. Add ghee before serving.",
+    time: "30 minutes",
+    difficulty: "Easy"
+  },
+  {
+    id: 2,
+    slug: "momo",
+    name: "Momo",
+    cuisine: "Nepali",
+    ingredients: [
+      "Flour",
+      "Meat or Vegetables",
+      "Onion",
+      "Spices"
+    ],
+    instructions: "Prepare dough. Make filling. Shape dumplings. Steam 15 minutes. Serve with achar.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 3,
+    slug: "sel-roti",
+    name: "Sel Roti",
+    cuisine: "Nepali",
+    ingredients: [
+      "Rice flour",
+      "Sugar",
+      "Milk",
+      "Oil"
+    ],
+    instructions: "Make batter with rice flour and sugar. Shape into rings. Deep fry until golden.",
+    time: "40 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 4,
+    slug: "yomari",
+    name: "Yomari",
+    cuisine: "Nepali",
+    ingredients: [
+      "Rice flour",
+      "Jaggery",
+      "Sesame seeds"
+    ],
+    instructions: "Make rice dough. Fill with jaggery and sesame paste. Steam until cooked.",
+    time: "50 minutes",
+    difficulty: "Hard"
+  },
+  {
+    id: 5,
+    slug: "gundruk",
+    name: "Gundruk Soup",
+    cuisine: "Nepali",
+    ingredients: [
+      "Fermented leafy greens",
+      "Onion",
+      "Tomato",
+      "Spices"
+    ],
+    instructions: "Soak gundruk. Cook with onion, tomato, and spices for a tangy soup.",
+    time: "35 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 6,
+    slug: "aloo-tama",
+    name: "Aloo Tama",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Aloo Tama with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 7,
+    slug: "thukpa",
+    name: "Thukpa",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Thukpa with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 8,
+    slug: "sukuti",
+    name: "Sukuti",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Sukuti with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 9,
+    slug: "chatamari",
+    name: "Chatamari",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Chatamari with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 10,
+    slug: "bara",
+    name: "Bara",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Bara with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 11,
+    slug: "butter-chicken",
+    name: "Butter Chicken",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Butter Chicken with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 12,
+    slug: "paneer-butter-masala",
+    name: "Paneer Butter Masala",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Paneer Butter Masala with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 13,
+    slug: "chole-bhature",
+    name: "Chole Bhature",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Chole Bhature with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 14,
+    slug: "biryani",
+    name: "Hyderabadi Biryani",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Hyderabadi Biryani with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 15,
+    slug: "idli",
+    name: "Idli",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Idli with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 16,
+    slug: "dosa",
+    name: "Masala Dosa",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Masala Dosa with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 17,
+    slug: "samosa",
+    name: "Samosa",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Samosa with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 18,
+    slug: "rasgulla",
+    name: "Rasgulla",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Rasgulla with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 19,
+    slug: "gulab-jamun",
+    name: "Gulab Jamun",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Gulab Jamun with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 20,
+    slug: "masala-chai",
+    name: "Masala Chai",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Masala Chai with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 21,
+    slug: "paratha",
+    name: "Aloo Paratha",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Aloo Paratha with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 22,
+    slug: "poha",
+    name: "Poha",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Poha with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 23,
+    slug: "pav-bhaji",
+    name: "Pav Bhaji",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Pav Bhaji with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 24,
+    slug: "malai-kofta",
+    name: "Malai Kofta",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Malai Kofta with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 25,
+    slug: "dal-makhani",
+    name: "Dal Makhani",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Dal Makhani with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 26,
+    slug: "kheer",
+    name: "Kheer",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Kheer with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 27,
+    slug: "jalebi",
+    name: "Jalebi",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Jalebi with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 28,
+    slug: "lassi",
+    name: "Sweet Lassi",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Sweet Lassi with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 29,
+    slug: "tandoori-chicken",
+    name: "Tandoori Chicken",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Tandoori Chicken with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 30,
+    slug: "veg-pulao",
+    name: "Veg Pulao",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Veg Pulao with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 31,
+    slug: "kachori",
+    name: "Kachori",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Kachori with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 32,
+    slug: "pani-puri",
+    name: "Pani Puri",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Pani Puri with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 33,
+    slug: "dahi-puri",
+    name: "Dahi Puri",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Dahi Puri with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 34,
+    slug: "sev-puri",
+    name: "Sev Puri",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Sev Puri with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 35,
+    slug: "uttapam",
+    name: "Uttapam",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Uttapam with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 36,
+    slug: "vada-pav",
+    name: "Vada Pav",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Vada Pav with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 37,
+    slug: "bhindi-masala",
+    name: "Bhindi Masala",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Bhindi Masala with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 38,
+    slug: "baingan-bharta",
+    name: "Baingan Bharta",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Baingan Bharta with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 39,
+    slug: "rajma",
+    name: "Rajma Curry",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Rajma Curry with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 40,
+    slug: "palak-paneer",
+    name: "Palak Paneer",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Palak Paneer with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 41,
+    slug: "shahi-paneer",
+    name: "Shahi Paneer",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Shahi Paneer with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 42,
+    slug: "methi-thepla",
+    name: "Methi Thepla",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Methi Thepla with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 43,
+    slug: "dhokla",
+    name: "Khaman Dhokla",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Khaman Dhokla with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 44,
+    slug: "handi-chicken",
+    name: "Handi Chicken",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Handi Chicken with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 45,
+    slug: "rogan-josh",
+    name: "Rogan Josh",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Rogan Josh with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 46,
+    slug: "fish-curry",
+    name: "Goan Fish Curry",
+    cuisine: "Indian",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Goan Fish Curry with traditional Indian method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 47,
+    slug: "dhido",
+    name: "Dhido",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Dhido with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 48,
+    slug: "chiura",
+    name: "Chiura with Curry",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Chiura with Curry with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 49,
+    slug: "kwati",
+    name: "Kwati",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Kwati with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 50,
+    slug: "jhol-momo",
+    name: "Jhol Momo",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Jhol Momo with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  },
+  {
+    id: 51,
+    slug: "thakali-khana",
+    name: "Thakali Khana",
+    cuisine: "Nepali",
+    ingredients: [
+      "Ingredient1",
+      "Ingredient2",
+      "Ingredient3"
+    ],
+    instructions: "Cook Thakali Khana with traditional Nepali method.",
+    time: "45 minutes",
+    difficulty: "Medium"
+  }
+]
